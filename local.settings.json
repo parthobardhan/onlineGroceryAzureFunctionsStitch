@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "MongoDBAtlasConnectionString": "mongodb+srv://AzureFunctionUser:AzureFunctionUser123@cluster0.o9q0k.azure.mongodb.net/test?retryWrites=true&w=majority"
+  }
+}
